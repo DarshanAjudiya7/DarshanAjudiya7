@@ -10,6 +10,63 @@
 
 - ⚡ Fun fact **I am very funny and smiling person**
 
+- <style>
+  .skills-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+  }
+
+  .skills-table th,
+  .skills-table td {
+    border: 1px solid #ddd;
+    padding: 12px 16px;
+    text-align: left;
+  }
+
+  .skills-table th {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  .skills-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+
+  .skills-table tr:hover {
+    background-color: #f1f1f1;
+  }
+</style>
+
+<table class="skills-table">
+  <thead>
+    <tr>
+      <th>💪 Skill</th>
+      <th>🔥 Level</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Python</td>
+      <td>Intermediate</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>Beginner</td>
+    </tr>
+    <tr>
+      <td>HTML5 / CSS3</td>
+      <td>Intermediate</td>
+    </tr>
+    <tr>
+      <td>AI-ML</td>
+      <td>Exploring</td>
+    </tr>
+  </tbody>
+</table>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/darshan ajudiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan ajudiya" height="30" width="40" /></a>
