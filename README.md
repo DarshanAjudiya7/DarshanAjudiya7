@@ -25,5 +25,5 @@
 
 ###
 
-![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DarshanAjudiya7/DarshanAjudiya7/blob/output/github-contribution-grid-snake.svg)
 
