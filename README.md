@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I am very funny and smiling person**
 
-- <style>
+<style>
   .skills-table {
     width: 100%;
     border-collapse: collapse;
