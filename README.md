@@ -10,35 +10,6 @@
 
 - ⚡ Fun fact **I am very funny and smiling person**
 
-<style>
-  .skills-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-    font-family: Arial, sans-serif;
-  }
-
-  .skills-table th,
-  .skills-table td {
-    border: 1px solid #ddd;
-    padding: 12px 16px;
-    text-align: left;
-  }
-
-  .skills-table th {
-    background-color: #4CAF50;
-    color: white;
-  }
-
-  .skills-table tr:nth-child(even) {
-    background-color: #f9f9f9;
-  }
-
-  .skills-table tr:hover {
-    background-color: #f1f1f1;
-  }
-</style>
-
 <table class="skills-table">
   <thead>
     <tr>
