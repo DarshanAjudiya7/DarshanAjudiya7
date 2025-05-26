@@ -58,5 +58,50 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanajudiya7&" alt="darshanajudiya7" /></p>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quote Block</title>
+  <style>
+    .quote-box {
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 20px 30px;
+      background-color: #f9f9f9;
+      border-left: 6px solid #ffc107;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 18px;
+      line-height: 1.6;
+      position: relative;
+    }
+
+    .quote-box::before {
+      content: "⭐";
+      position: absolute;
+      top: -20px;
+      left: -20px;
+      font-size: 30px;
+    }
+
+    .quote-author {
+      display: block;
+      margin-top: 12px;
+      font-weight: bold;
+      text-align: right;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="quote-box">
+    “Code is like humor. When you have to explain it, it’s bad.”
+    <span class="quote-author">— Cory House</span>
+  </div>
+
+</body>
+</html>
 
 
