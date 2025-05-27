@@ -64,8 +64,8 @@
 <body>
 
   <div class="quote-box">
-    “Code is like humor. When you have to explain it, it’s bad.”
-    <span class="quote-author">— Cory House</span>
+    ⭐ “Code is like humor. When you have to explain it, it’s bad.”
+    <span class="quote-author">— Cory House ⭐</span>
   </div>
 
 </body>
