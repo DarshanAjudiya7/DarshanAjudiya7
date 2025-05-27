@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
 <h3 align="center">A passionate frontend developer from Rajkot.</h3>
 
+<h3 align="left">About me:</h3>
 - 🌱 I’m currently learning **Python language**
 
 - 💬 Ask me about **html and css**
