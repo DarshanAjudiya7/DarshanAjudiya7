@@ -78,10 +78,9 @@
 <h3 align="left>📈 My Contributions:</h3>
 
 
-
-
-
 ![Snake animation](https://raw.githubusercontent.com/DarshanAjudiya7/DarshanAjudiya7/output/github-contribution-grid-snake.svg)
+
+
 
 
 
