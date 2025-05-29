@@ -65,12 +65,24 @@
 
 <hr>
 <h3 align="left">🤝 Connect with me:</h3>
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/darshan-ajudiya-a5b301310/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /> </a>
-  <a href="https://instagram.com/darshan_ajudiya_7" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /> </a> 
-  <a href="https://x.com/AjudiyaDarshan7" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /> </a> 
-  <a href="mailto:darshanajudiya07@gmail.com" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="" height="30" width="40" /> </a>
-  <a href="https://github.com/DarshanAjudiya7" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="" height="30" width="40" /> </a> </p>
+<h3 align="left">🤝 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/darshan-ajudiya-a5b301310/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/darshan_ajudiya_7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://x.com/AjudiyaDarshan7" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Twitter/X" height="30" width="40" />
+  </a>
+  <a href="mailto:darshanajudiya07@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" height="30" width="40" />
+  </a>
+  <a href="https://github.com/DarshanAjudiya7" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</p>
 
 
 <hr>
