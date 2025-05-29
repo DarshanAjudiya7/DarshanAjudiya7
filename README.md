@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend developer from Rajkot.</h3>
 
 <h3 align="left">📖 About Me:</h3>
+
 - 🌱 I’m currently learning **Python language**
 
 - 💬 Ask me about **html and css**
@@ -64,10 +65,7 @@
 
 <hr>
 <h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/darshan-ajudiya-a5b301310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan ajudiya" height="30" width="40" /></a>
-<a href="https://instagram.com/darshan_ajudiya_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshan_ajudiya_7" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/darshan-ajudiya-a5b301310/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Darshan Ajudiya | LinkedIn" height="30" width="40" /> </a> &nbsp;&nbsp; <a href="https://instagram.com/darshan_ajudiya_7" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshan_ajudiya_7 | Instagram" height="30" width="40" /> </a> &nbsp;&nbsp; <a href="https://x.com/AjudiyaDarshan7" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Darshan Ajudiya | Twitter/X" height="30" width="40" /> </a> &nbsp;&nbsp; <a href="mailto:darshanajudiya07@gmail.com" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" /> </a> &nbsp;&nbsp; <a href="https://github.com/DarshanAjudiya7" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /> </a> </p>
 
 
 <hr>
