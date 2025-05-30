@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Python language**
 
-- 💬 Ask me about **html and css**
+- 💬 Ask me about **HTML,CSS & C**
 
 - 📫 How to reach me **darshanajudiya07@gmail.com**
 
-- ⚡ Fun fact **I am very funny and smiling person**
+- ⚡ Fun fact **😊 I am very funny and smiling person 😄**
 <hr>
 <h3 align="left">🛠 Skills & Tools:</h3>
 <table class="skills-table">
@@ -117,12 +117,18 @@
 
 <hr>
 
----
 
 ## 🎉 Fun Fact
 > "Good code is its own best documentation — write it like you're telling a story!"
 
 ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+--- 
+
+
+
+## 🤝 Let’s Build Something Together!
+Got a cool project idea or want to collab? Hit me up — I’m always up for a coding adventure! 🚀
 
 --- 
 
