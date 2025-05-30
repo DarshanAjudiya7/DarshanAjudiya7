@@ -120,7 +120,7 @@
 ---
 
 ## 🎉 Fun Fact
-> "Code is like poetry — sometimes it rhymes, sometimes it crashes!"
+> "Good code is its own best documentation — write it like you're telling a story!"
 
 ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
