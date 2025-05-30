@@ -11,7 +11,7 @@
 
 <h3 align="left">📖 About Me:</h3>
 
-- 🌱 I’m currently learning **Python language**
+- 🌱 I’m currently learning **Python language & C++**
 
 - 💬 Ask me about **HTML,CSS & C**
 
