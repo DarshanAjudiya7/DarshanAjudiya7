@@ -1,13 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Darshan</h1>
-<h3 align="center">A passionate frontend developer from Rajkot.</h3>
+<h3 align="center">A passionate frontend developer from Rajkot.</h3> 
+
+---
 
 <p align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Problem+Solving;Web%20|%20Developer%20|%20...%20;AI%20%20Enthusiast;5%20Python%20& C++%20Learner;Always%20learning%20new%20things&size=30&color=5FF729&center=true&width=500&height=50"></a> 
-	
-	
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AD404&center=true&vCenter=true&width=500&lines=Hi+There+👋+I'm+Darshan+Ajudiya;A+Passionate+Developer+from+India;Love+to+Build+Awesome+Projects+💻;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
+---
 
 <h3 align="left">📖 About Me:</h3>
 
