@@ -65,7 +65,7 @@
 
 <hr>
 <h3 align="left">🤝 Connect with me:</h3>
-<h3 align="left">🤝 Connect with me:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/darshan-ajudiya-a5b301310/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -116,6 +116,16 @@
 
 
 <hr>
+
+---
+
+## 🎉 Fun Fact
+> "Code is like poetry — sometimes it rhymes, sometimes it crashes!"
+
+![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+--- 
+
 <!DOCTYPE html>
 <html lang="en">
 
