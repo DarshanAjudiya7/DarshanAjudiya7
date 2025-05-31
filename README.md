@@ -157,4 +157,7 @@ Got a cool project idea or want to collab? Hit me up — I’m always up for a c
 </body>
 </html>
 
+[![Darshan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DarshanAjudiya7&bg_color=1f1f1f&color=37bcf5&line=38f5bf&point=f5f5f5&area=true&hide_border=true)](https://github.com/DarshanAjudiya7)
+
+
 
