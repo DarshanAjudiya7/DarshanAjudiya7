@@ -129,6 +129,11 @@
 
 <hr>
 
+<a align="center" href="https://github.com/DarshanAjudiya7">
+  <img alt="Darshan Ajudiya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanAjudiya7&custom_title=Darshan%20Ajudiya's%20Contribution%20Graph&theme=react-dark" />
+</a> 
+
+<hr>
 
 ## 🎉 Fun Fact
 > "Good code is its own best documentation — write it like you're telling a story!"
@@ -158,9 +163,6 @@ Got a cool project idea or want to collab? Hit me up — I’m always up for a c
 </html>
 
 
- <a align="center" href="https://github.com/DarshanAjudiya7">
-  <img alt="Darshan Ajudiya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanAjudiya7&custom_title=Darshan%20Ajudiya's%20Contribution%20Graph&theme=react-dark" />
-</a> 
-
+ 
 
 
