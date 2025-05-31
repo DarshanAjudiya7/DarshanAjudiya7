@@ -157,7 +157,11 @@ Got a cool project idea or want to collab? Hit me up — I’m always up for a c
 </body>
 </html>
 
-[![Darshan's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DarshanAjudiya7&bg_color=1f1f1f&color=37bcf5&line=38f5bf&point=f5f5f5&area=true&hide_border=true)](https://github.com/DarshanAjudiya7)
+---
+
+<!-- <summary><b>⚡ Recent GitHub Activity</b></summary> -->
+<!--    <a align="center" href="https://github.com/DarshanAjudiya7"><img alt="Darshan Ajudiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DarshanAjudiya7&custom_title=Darshan%20Ajudiya's%20Contribution%20Graph&theme=react-dark" /></a> -->
+
 
 
 
