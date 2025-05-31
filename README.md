@@ -157,11 +157,11 @@ Got a cool project idea or want to collab? Hit me up — I’m always up for a c
 </body>
 </html>
 
----
+
 
 <!-- <summary><b>⚡ Recent GitHub Activity</b></summary> -->
-<!--    <a align="center" href="https://github.com/DarshanAjudiya7"><img alt="Darshan Ajudiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DarshanAjudiya7&custom_title=Darshan%20Ajudiya's%20Contribution%20Graph&theme=react-dark" /></a> -->
-
-
+<!-- <a align="center" href="https://github.com/DarshanAjudiya7">
+  <img alt="Darshan Ajudiya's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=DarshanAjudiya7&custom_title=Darshan%20Ajudiya's%20Contribution%20Graph&theme=react-dark" />
+</a> -->
 
 
