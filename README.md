@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AD404&center=true&vCenter=true&width=500&lines=Hi+There+👋;Pursuing+Computer+Engineering+🧑‍💻;AI+Enthusiast+🤖;Love+to+Build+Awesome+Projects+💻;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DarshanAjudiya7&label=Profile%20views&color=0e75b6&style=plastic" alt="DarshanAjudiya7" />
+</p>
+
+
 ---
 
 <h3 align="left">📖 About Me:</h3>
