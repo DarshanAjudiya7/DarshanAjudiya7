@@ -112,9 +112,9 @@
 <h3 align="left">🧑‍💻 HactoberFest 2k25:</h3>
 <p>I have successfully done my 6 Pull Request. There are some rewards ( Holopin Badgesin ) shown in below.</p>
 <p align="center">
-  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webpg" width="120"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="120"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="120"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="150"/>
+  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="150"/>
 </p>
 
 <hr>
