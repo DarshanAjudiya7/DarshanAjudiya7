@@ -109,8 +109,10 @@
 </p>
 
 <hr>
-
-
+<h3 align="left">🧑‍💻 HactoberFest 2k25:</h3>
+<p>I have successfully done my 6 Pull Request. There are some rewards ( Holopin Badgesin ) shown in below.</p>
+<img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="hactoberfest-2k25">
+<hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshanajudiya7&show_icons=true&locale=en&layout=compact" alt="darshanajudiya7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshanajudiya7&show_icons=true&locale=en" alt="darshanajudiya7" /></p>
