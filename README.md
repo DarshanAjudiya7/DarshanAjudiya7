@@ -119,6 +119,7 @@
 </p>
 <hr>
 [![An image of @darshanajudiya7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshanajudiya7)](https://holopin.io/@darshanajudiya7)
+
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshanajudiya7&show_icons=true&locale=en&layout=compact" alt="darshanajudiya7" /></p>
 
@@ -170,8 +171,3 @@ Got a cool project idea or want to collab? Hit me up — I’m always up for a c
 
 </body>
 </html>
-
-
- 
-
-
