@@ -117,7 +117,8 @@
   <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="150"/>
   <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="150"/>
 </p>
-
+<hr>
+[![An image of @darshanajudiya7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshanajudiya7)](https://holopin.io/@darshanajudiya7)
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshanajudiya7&show_icons=true&locale=en&layout=compact" alt="darshanajudiya7" /></p>
 
