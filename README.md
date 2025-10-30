@@ -112,12 +112,8 @@
 <h3 align="left">🧑‍💻 HactoberFest 2k25 Rewards 🏆:</h3>
 <h5 align="left">1. 🎯🥇 6 PRs Completed — Mission Accomplished!</h5>
 <h5 align="left">2. 🚀🏆 Open Source Contributor </h5>
-<p align="center">
-  <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="150"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="150"/>
-  <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="150"/>
-</p>
 
+[![An image of @DarshanAjudiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/DarshanAjudiya7)](https://holopin.io/@DarshanAjudiya7)
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshanajudiya7&show_icons=true&locale=en&layout=compact" alt="darshanajudiya7" /></p>
 
