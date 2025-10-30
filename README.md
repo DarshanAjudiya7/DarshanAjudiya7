@@ -110,8 +110,8 @@
 
 <hr>
 <h3 align="left">🧑‍💻 HactoberFest 2k25 Rewards 🏆:</h3>
-<h4 align="left">🎯🥇 6 PRs Completed — Mission Accomplished!</h4>
-<h4 align="left">🚀🏆 Open Source Contributor </h4>
+<h5 align="left">1. 🎯🥇 6 PRs Completed — Mission Accomplished!</h5>
+<h5 align="left">2. 🚀🏆 Open Source Contributor </h5>
 <p align="center">
   <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="150"/>
   <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="150"/>
