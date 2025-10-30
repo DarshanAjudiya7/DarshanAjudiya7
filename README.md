@@ -109,8 +109,9 @@
 </p>
 
 <hr>
-<h3 align="left">🧑‍💻 HactoberFest 2k25:</h3>
-<p>I have successfully done my 6 Pull Request. There are some rewards ( Holopin Badgesin ) shown in below.</p>
+<h3 align="left">🧑‍💻 HactoberFest 2k25 Rewards 🏆:</h3>
+<h4 align="left">🎯🥇 6 PRs Completed — Mission Accomplished!</h4>
+<h4 align="left">🚀🏆 Open Source Contributor </h4>
 <p align="center">
   <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="150"/>
   <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="150"/>
