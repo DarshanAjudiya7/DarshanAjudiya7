@@ -16,13 +16,14 @@
 
 <h3 align="left">📖 About Me:</h3>
 
-- 🌱 I’m currently learning **Python language & C++**
+- 🌱 I’m currently learning **NextJS,Tailwind CSS & React**
 
-- 💬 Ask me about **HTML,CSS & C**
+- Tech Interests: **Full-stack web development, AI/ML, Python projects, problem-solving**
 
-- 📫 How to reach me **darshanajudiya07@gmail.com**
+- 🎯 Goal: Build impactful projects, contribute to open source, and grow with the tech community
 
-- ⚡ Fun fact **😊 I am very funny and smiling person 😄**
+- 💡 What Drives Me: Solving real-world problems with code — whether it’s a Application, a tool, or an AI experiment
+
 <hr>
 <h3 align="left">🛠 Skills & Tools:</h3>
 <table class="skills-table">
@@ -150,6 +151,7 @@
 
 ## 🤝 Let’s Build Something Together!
 Got a cool project idea or want to collab? Hit me up — I’m always up for a coding adventure! 🚀
+- ⚡ Fun fact **😊 I am very funny and smiling person 😄**
 
 --- 
 
