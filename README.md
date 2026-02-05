@@ -35,15 +35,19 @@
   </thead>
   <tbody>
     <tr>
-      <td>Python</td>
+      <td>React / TailwindCSS</td>
+      <td>Beginner</td></td>
+    </tr>
+    <tr>
+      <td>NextJS</td>
       <td>Intermediate</td>
     </tr>
     <tr>
-      <td>C</td>
-      <td>Beginner</td>
+      <td>HTML5 / CSS3</td>
+      <td>Pro</td>
     </tr>
     <tr>
-      <td>HTML5 / CSS3</td>
+      <td>Python</td>
       <td>Intermediate</td>
     </tr>
     <tr>
@@ -62,10 +66,13 @@
     <h2>🚀 Tech Stack:</h2>
     <div class="badges">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
       <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C">
       <br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
       <br>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -116,15 +123,9 @@
 
 [![An image of @DarshanAjudiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/DarshanAjudiya7)](https://holopin.io/@DarshanAjudiya7)
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshanajudiya7&show_icons=true&locale=en&layout=compact" alt="darshanajudiya7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshanajudiya7&show_icons=true&locale=en" alt="darshanajudiya7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanajudiya7&" alt="darshanajudiya7" /></p>
-
-<hr>
 <h3 align="left">📈 My Contributions:</h3>
-
 
 
 ![Snake animation](https://raw.githubusercontent.com/DarshanAjudiya7/DarshanAjudiya7/output/github-contribution-grid-snake.svg)
