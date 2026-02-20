@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi 👋, I'm Darshan</h1>
 <h3 align="left">A passionate frontend developer.</h3> 
-- 🧑‍💻 *Personal Portfolio* — My live showcase (Live: [Portfolio](https://urvilpatel-portfolio.netlify.app/))  
+<p>- My Portfolio(Live: [🌐](https://regal-selkie-354677.netlify.app/))</p>
 ---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AD404&center=true&vCenter=true&width=500&lines=Hi+There+👋;Pursuing+Computer+Engineering+🧑‍💻;AI+Enthusiast+🤖;Love+to+Build+Awesome+Projects+💻;Always+Learning+New+Things+🚀" alt="Typing SVG" />
