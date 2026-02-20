@@ -1,7 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Darshan</h1>
 <h3 align="left">A passionate frontend developer.</h3> 
-- 🌐 My Portfolio: [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://regal-selkie-354677.netlify.app/)
 <hr>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AD404&center=true&vCenter=true&width=500&lines=Hi+There+👋;Pursuing+Computer+Engineering+🧑‍💻;AI+Enthusiast+🤖;Love+to+Build+Awesome+Projects+💻;Always+Learning+New+Things+🚀" alt="Typing SVG" />
@@ -152,6 +151,7 @@
 
 
 ## 🤝 Let’s Build Something Together!
+- 🌐 My Portfolio: [live](https://regal-selkie-354677.netlify.app/)
 Got a cool project idea or want to collab? Hit me up — I’m always up for a coding adventure! 🚀
 - ⚡ Fun fact **😊 I am very funny and smiling person 😄**
 
