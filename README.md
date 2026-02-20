@@ -141,6 +141,10 @@
 
 <hr>
 
+
+## 🧑‍💻 *Personal Portfolio* — My live showcase (Live: [Portfolio](https://regal-selkie-354677.netlify.app//))
+<hr>
+
 ## 🎉 Fun Fact
 > "Good code is its own best documentation — write it like you're telling a story!"
 
