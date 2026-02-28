@@ -124,10 +124,18 @@
 <hr>
 
 
+## 📈 GitHub Stats
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DarshanAjudiya7&theme=dark&hide_border=false)
+
+<hr>
+
 <h3 align="left">📈 My Contributions:</h3>
 
 
 ![Snake animation](https://raw.githubusercontent.com/DarshanAjudiya7/DarshanAjudiya7/output/github-contribution-grid-snake.svg)
+
+
 
 
 
