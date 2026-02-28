@@ -149,7 +149,7 @@ mindmap
 
 <div align="center">
 
-🌐 **My Portfolio:** [live demo](https://github.com/DarshanAjudiya7)
+🌐 **My Portfolio:** [live demo](https://porfolio-mu-orpin.vercel.app/)
 
 💡 Got a cool project idea or want to collab? Hit me up — I'm always up for a coding adventure! 🚀
 
