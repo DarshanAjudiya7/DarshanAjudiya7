@@ -90,13 +90,17 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 
 ---
 
-## 🏆 HacktoberFest 2k25 Rewards
+## 🏆 HacktoberFest 2k25 Rewards & Contribution Graph
 
 <div align="center">
 
 > 🎉 **6 PRs Completed — Mission Accomplished!** 🎉
 > 
 > 🚀 Proud **Open Source Contributor** 🌍
+
+
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanAjudiya7&theme=tokyo-night&hide_border=true&area=true" /> -->
+[![An image of @DarshanAjudiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/DarshanAjudiya7)](https://holopin.io/@DarshanAjudiya7)
 
 </div>
 
@@ -107,34 +111,14 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarshanAjudiya7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanAjudiya7&theme=tokyonight&hide_border=true" /> -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanAjudiya7&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<!-- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanAjudiya7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> -->
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanAjudiya7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> 
 
 </div>
 
----
-
-## 🏅 HactoberFest 2k25 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DarshanAjudiya7&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanAjudiya7&theme=tokyo-night&hide_border=true&area=true" /> -->
-[![An image of @DarshanAjudiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/DarshanAjudiya7)](https://holopin.io/@DarshanAjudiya7)
-
-</div>
 
 ---
 
