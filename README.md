@@ -80,7 +80,7 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/darshan-ajudiya](https://www.linkedin.com/in/darshan-ajudiya-a5b301310/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-ajudiya-a5b301310)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darshan_ajudiya_7)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AjudiyaDarshan7)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanajudiya07@gmail.com)
@@ -107,17 +107,17 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarshanAjudiya7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanAjudiya7&theme=tokyonight&hide_border=true" />
+<!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanAjudiya7&theme=tokyonight&hide_border=true" /> -->
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanAjudiya7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanAjudiya7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> -->
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 HactoberFest 2k25 Trophies
 
 <div align="center">
 
@@ -131,7 +131,8 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanAjudiya7&theme=tokyo-night&hide_border=true&area=true" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanAjudiya7&theme=tokyo-night&hide_border=true&area=true" /> -->
+[![An image of @DarshanAjudiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/DarshanAjudiya7)](https://holopin.io/@DarshanAjudiya7)
 
 </div>
 
