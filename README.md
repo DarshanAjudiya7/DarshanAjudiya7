@@ -126,7 +126,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DarshanAjudiya7&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarshanAjudiya7&theme=dark&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)
 
 <hr>
 
