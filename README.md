@@ -25,8 +25,6 @@
 ## 🧠 About Me
 
 ```yaml
-name       : Darshan Ajudiya
-location   : India 🇮🇳
 role       : Frontend Developer & AI Enthusiast
 learning   : ["NextJS", "TailwindCSS", "React", "AI/ML", "Python"]
 interests  : ["Full-stack Web Dev", "AI/ML Projects", "Problem Solving"]
@@ -82,10 +80,10 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-ajudiya)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darshan_ajudiya)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DarshanAjudiya7)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanajudiya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/darshan-ajudiya](https://www.linkedin.com/in/darshan-ajudiya-a5b301310/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darshan_ajudiya_7)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AjudiyaDarshan7)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanajudiya07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarshanAjudiya7)
 
 </div>
