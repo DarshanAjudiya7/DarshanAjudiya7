@@ -75,6 +75,8 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 
 <div align="center">
 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://porfolio-mu-orpin.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-ajudiya-a5b301310)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darshan_ajudiya_7)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AjudiyaDarshan7)
@@ -152,11 +154,17 @@ mindmap
 
 <div align="center">
 
-🌐 **My Portfolio:** [live demo](https://porfolio-mu-orpin.vercel.app/)
+🚀 Got an idea, a project, or just want to build something awesome?  
+I'm always excited to collaborate and turn ideas into reality!
 
-💡 Got a cool project idea or want to collab? Hit me up — I'm always up for a coding adventure! 🚀
+💻 Open to:
+• Web Development Projects  
+• AI/ML Experiments  
+• Open Source Contributions  
 
-⚡ **Fun fact:** I am very funny and smiling person 😄
+✨ Let’s connect, create, and grow together!
+
+⚡ **Fun fact:** I bring positive energy, a smile, and a bit of humor to every project 😄
 
 </div>
 
