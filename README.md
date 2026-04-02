@@ -152,21 +152,17 @@ mindmap
 
 ## 💬 Let's Build Something Together!
 
-<div align="center">
-
 🚀 Got an idea, a project, or just want to build something awesome?  
-I'm always excited to collaborate and turn ideas into reality!
+I'm always excited to collaborate and turn ideas into reality.
 
 💻 Open to:
-• Web Development Projects  
-• AI/ML Experiments  
-• Open Source Contributions  
+- Web Development Projects  
+- AI/ML Experiments  
+- Open Source Contributions  
 
 ✨ Let’s connect, create, and grow together!
 
 ⚡ **Fun fact:** I bring positive energy, a smile, and a bit of humor to every project 😄
-
-</div>
 
 ---
 
