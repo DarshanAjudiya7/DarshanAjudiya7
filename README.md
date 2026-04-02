@@ -32,7 +32,7 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 ```
 ---
 ## 🛠️ Skills & Tools
-<div align="center">
+
 
 | 🔥 Skill | 📊 Level |
 |:---|:---|
@@ -43,11 +43,11 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 | 🐳 Docker | 🟡 Beginner |
 | 🤖 AI / ML | 🔵 Exploring |
 
-</div>
+
 
 ---
 ## 🚀 Tech Stack
-<div align="center">
+
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,13 +67,13 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
+
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
+
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://porfolio-mu-orpin.vercel.app/)
@@ -83,13 +83,12 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanajudiya07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarshanAjudiya7)
 
-</div>
+
 
 ---
 
 ## 🏆 HacktoberFest 2k25 Rewards
 
-<div align="center">
 
 > 🎉 **6 PRs Completed — Mission Accomplished!** 🎉
 > 
@@ -99,26 +98,23 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanAjudiya7&theme=tokyo-night&hide_border=true&area=true" /> -->
 [![An image of @DarshanAjudiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/DarshanAjudiya7)](https://holopin.io/@DarshanAjudiya7)
 
-</div>
+
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+
 
 <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarshanAjudiya7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DarshanAjudiya7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> -->
 <img width="49%" src="https://streak-stats.demolab.com?user=DarshanAjudiya7&theme=tokyonight&hide_border=true" />
-
-</div>
 
 
 ---
 
 ## 🎯 Current Focus
 
-<div align="center">
 
 ```mermaid
 mindmap
@@ -138,7 +134,7 @@ mindmap
       Building Tools
 ```
 
-</div>
+
 
 ---
 
