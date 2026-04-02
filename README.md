@@ -21,22 +21,17 @@
 </div>
 
 ---
-
 ## 🧠 About Me
-
 ```yaml
 role       : Frontend Developer & AI Enthusiast
-learning   : ["NextJS", "TailwindCSS", "React", "AI/ML", "Python"]
+learning   : ["NextJS", "TailwindCSS", "React", "AI/ML", "Python", "Docker"]
 interests  : ["Full-stack Web Dev", "AI/ML Projects", "Problem Solving"]
 goal       : "Build impactful projects, contribute to open source, and grow with the tech community"
 drives_me  : "Solving real-world problems with code — whether it's an App, a tool, or an AI experiment"
 fun_fact   : "Good code is its own best documentation — write it like you're telling a story!"
 ```
-
 ---
-
 ## 🛠️ Skills & Tools
-
 <div align="center">
 
 | 🔥 Skill | 📊 Level |
@@ -45,14 +40,13 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 | ▲ Next.JS | 🟠 Intermediate |
 | 🌐 HTML5 / CSS3 | 🟢 Pro |
 | 🐍 Python | 🟠 Intermediate |
+| 🐳 Docker | 🟡 Beginner |
 | 🤖 AI / ML | 🔵 Exploring |
 
 </div>
 
 ---
-
 ## 🚀 Tech Stack
-
 <div align="center">
 
 ### 💻 Languages
@@ -71,6 +65,7 @@ fun_fact   : "Good code is its own best documentation — write it like you're t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
